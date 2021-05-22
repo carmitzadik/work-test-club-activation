@@ -1,0 +1,37 @@
+h1{
+	text-align:center;
+	color:purple;
+	font-family:Tahoma;
+	font-size:42;
+}
+h2{
+	text-align:center;
+	color:red;
+	font-family:Tahoma;
+	font-size:32;
+}
+div{
+	text-align:center;
+	color:gray;
+	font-family:Tahoma;
+	font-size:50;
+}
+img {
+	width:300;
+    position:absolute;
+	top: 400;
+	left: 600;
+	padding:10px;
+	border-color: blue;
+	background-repeat: no-repeat;
+	
+	
+}
+body
+    {
+      direction: rtl;
+      background-color:yellow;
+      background-position: center;
+	  background-size: 100%;
+      background-repeat:no-repeat;
+    }
